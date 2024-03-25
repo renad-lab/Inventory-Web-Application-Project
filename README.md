@@ -12,3 +12,8 @@ Click the "Add Book" button to submit the form.
 The book will be added to the inventory and displayed in the list below the form.
 Installation
 No installation is required to use this application. Simply open the index.html file in your web browser to access the Book Inventory Management System.
+
+
+
+[
+](https://renad-lab.github.io/Inventory-Web-Application-Project/)https://renad-lab.github.io/Inventory-Web-Application-Project/
